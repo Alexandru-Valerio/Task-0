@@ -1,0 +1,56 @@
+Command line:
+    • free m
+    • cat /proc/meminfo
+
+alexandru@alexandru-HP-ProBook-430-G4:~$ cat /proc/meminfo
+MemTotal:        3928324 kB
+MemFree:          410268 kB
+MemAvailable:     769196 kB
+Buffers:           59872 kB
+Cached:          1382064 kB
+SwapCached:        10780 kB
+Active:          2347704 kB
+Inactive:         743944 kB
+Active(anon):    1891540 kB
+Inactive(anon):   542068 kB
+Active(file):     456164 kB
+Inactive(file):   201876 kB
+Unevictable:      136776 kB
+Mlocked:              64 kB
+SwapTotal:        901968 kB
+SwapFree:         492368 kB
+Dirty:               100 kB
+Writeback:             0 kB
+AnonPages:       1780160 kB
+Mapped:           764992 kB
+Shmem:            783888 kB
+KReclaimable:      55256 kB
+Slab:             124372 kB
+SReclaimable:      55256 kB
+SUnreclaim:        69116 kB
+KernelStack:       14000 kB
+PageTables:        71436 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     2866128 kB
+Committed_AS:   10080384 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:             1216 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      333968 kB
+DirectMap2M:     3753984 kB
+DirectMap1G:           0 kB
